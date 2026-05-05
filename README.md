@@ -23,7 +23,7 @@ I built an end-to-end funnel analysis project to understand how users move throu
 **Key finding:**  
 Only **0.50%** of users completed the full funnel, with major drop-offs before checkout and a sharp conversion deterioration from March 2015 onward.
 
-[View the full project](PASTE-YOUR-PROJECT-REPO-LINK-HERE)
+[View the full project](https://github.com/GeorgeOduk/ecommerce-funnel-analysis-sql-powerbi)
 
 ---
 
@@ -56,5 +56,5 @@ I am developing portfolio projects across:
 
 ## Contact
 
-- LinkedIn: PASTE-LINKEDIN-LINK-HERE
+- LinkedIn: www.linkedin.com/in/george-oduk
 - Portfolio website: PASTE-GITHUB-PAGES-LINK-HERE
