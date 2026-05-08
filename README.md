@@ -1,10 +1,10 @@
 # Hi, I'm George 👋
 
-I am building a professional portfolio in **data analytics, business intelligence and commercial problem-solving**, with a focus on **SQL, Power BI, Excel and consulting-style insight development**.
+I am building a professional portfolio in data analytics, business intelligence and commercial problem-solving, with a focus on SQL, Power BI, Excel and consulting-style insight development.
 
 My projects demonstrate end-to-end analytical workflows: cleaning and preparing data, writing SQL queries, building dashboards, identifying patterns, interpreting performance, and translating findings into clear recommendations for decision-making.
 
-I am particularly interested in roles across **data analytics, business intelligence, commercial analysis, operations analysis, marketing analytics and consulting-style analytics**.
+I am particularly interested in roles across data analytics, business intelligence, commercial analysis, operations analysis, marketing analytics and consulting-style analytics.
 
 ---
 
