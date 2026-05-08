@@ -127,4 +127,4 @@ My portfolio covers:
 ## Contact
 
 **LinkedIn:** www.linkedin.com/in/george-oduk  
-**Portfolio website:** PASTE-GITHUB-PAGES-LINK-HERE
+**Portfolio website:** https://georgeoduk.github.io
