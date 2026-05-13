@@ -84,9 +84,9 @@ Providing a clear view of energy usage, costs, emissions and performance trends 
 
 Alongside my featured projects, I have also completed supporting SQL and analytics projects to strengthen my core technical foundations.
 
-- **SQL Data Cleaning Project** — applied a structured SQL workflow to remove duplicates, standardise values, handle missing data and prepare a raw dataset for analysis.
-- **Exploratory Data Analysis with SQL** — used SQL queries to profile data, identify patterns, compare segments and generate early business insights.
-- **Nashville Housing Data Cleaning** — cleaned and restructured housing data using SQL, including date standardisation, address parsing, missing value handling and duplicate removal.
+- **SQL Data Cleaning Project** - applied a structured SQL workflow to remove duplicates, standardise values, handle missing data and prepare a raw dataset for analysis.
+- **Exploratory Data Analysis with SQL** - used SQL queries to profile data, identify patterns, compare segments and generate early business insights.
+- **Nashville Housing Data Cleaning** - cleaned and restructured housing data using SQL, including date standardisation, address parsing, missing value handling and duplicate removal.
 
 These projects support my wider portfolio by demonstrating practical skills in data preparation, SQL analysis, data quality improvement and analytical documentation.
 
